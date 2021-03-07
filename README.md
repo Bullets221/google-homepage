@@ -1,0 +1,1 @@
+This is a Odin project that will give me practice with html, css and git building a Google homepage.
